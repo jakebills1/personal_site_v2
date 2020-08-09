@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Jake! I am a Full Stack Software Engineer at [Direct](https://www.getdirect.io/), a property management system for the vacation rental industry. 
+Hi, I'm Jake! I am a Full Stack Software Engineer at [Direct](https://www.getdirect.io/), a property management system for the vacation rental industry. You can get a copy of my resume [here]({{ site.url }}/assets/jake_bills_resume.pdf)
 
 ## My Background
 
